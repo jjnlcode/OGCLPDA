@@ -1,2 +1,2 @@
 # PGCLODA
-code and data about OGCLPDA
+code and data about PGCLODA
